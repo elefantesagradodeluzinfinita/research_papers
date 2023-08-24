@@ -1,0 +1,4 @@
+TAREAS PENDIENTES
+
+1. Gestionar solicitud para sustentacion de TESIS en la universidad.
+2. Temas de investigacion: EXPLOIT DEVELOPMENT.
