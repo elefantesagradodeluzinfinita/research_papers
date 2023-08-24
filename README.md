@@ -1,6 +1,6 @@
 # Research Papers - INFORMATION SECURITY
 
-##Documentos de investigación en Seguridad Informática.
+<center><strong>Documentos de investigación en Seguridad Informática.</strong></center>
 
 <p>TESIS_MAESTRIA : Tesis para el grado de Maestro en Ciberseguridad.</p>
 
